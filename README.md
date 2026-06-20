@@ -17,5 +17,5 @@ A Power BI dashboard analyzing sales and profitability across 5 countries,
 - Excel (raw data source)
 
 ## Files
-- `dashboard.pbix` – Power BI report file
-- `Financial_Sample.xlsx` – Raw dataset
+- `Sales & Profitability Analysis Dashboard.pbix` – Power BI report file
+- `Financial Sample.xlsx` – Raw dataset
